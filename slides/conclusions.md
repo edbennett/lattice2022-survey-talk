@@ -20,5 +20,5 @@
 * Produce a manifesto of good practice in open science in lattice
 * Develop tooling to better enable automated analysis and presentation
   * Aspiration: "easier to use than not to"
-* Survey of reproducible and open science practices
-  * Watch your inboxes
+* Informed by a survey of reproducible and open science practices
+  * Next talk!

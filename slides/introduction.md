@@ -2,28 +2,15 @@
 
 -
 
-## Reproducibility
+## Reproducibility and open science
 
-Same data 
-<span class="fragment fade-in" data-fragment-index="1">$+$ same analysis</span>
-<span class="fragment fade-in" data-fragment-index="2">$\rightarrow$ Same results</span>
-
-* Related concepts: <!-- .element: class="fragment fade-in" data-fragment-index="3" -->
-  * Replicability: New data $+$ same analysis $\rightarrow$ same results <!-- .element: class="fragment fade-in" data-fragment-index="4" -->
-  * Robustness: Same data $+$ new analysis $\rightarrow$ same results <!-- .element: class="fragment fade-in" data-fragment-index="5" -->
-
--
-
-## Open science
-
-The movement to make all research accessible to all levels of society.
-
-Including, but not limited to:
-
-* Publications
-* Physical samples
-* Data
-* Software
+* Reproducibility:
+  <span class="fragment fade-in" data-fragment-index="1">Same data</span> 
+  <span class="fragment fade-in" data-fragment-index="2">$+$ same analysis</span>
+  <span class="fragment fade-in" data-fragment-index="3">$\rightarrow$ Same results</span>
+  * Related concepts: replicability and robustness<!-- .element: class="fragment fade-in" data-fragment-index="4" -->
+* Open science: make all research accessible to all levels of society <!-- .element: class="fragment fade-in" data-fragment-index="5" -->
+  * Including: publications, physical samples, data, software... <!-- .element: class="fragment fade-in" data-fragment-index="6" -->
 
 -
 
@@ -48,26 +35,11 @@ _Orthogonal to data being open_
 
 * The ideal scientific process
 * Public funding $\Rightarrow$ Public results <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
-* Our funders say so <!-- .element: class="fragment fade-in" data-fragment-index="3" -->
+* Reduce<!-- .element: class="fragment fade-in" data-fragment-index="3" --> [wasted time, increase rate of science](https://physicstoday.scitation.org/do/10.1063/pt.6.1.20180822a/full/) <!-- .element: class="fragment fade-in" data-fragment-index="3" -->
+* Our funders say so <!-- .element: class="fragment fade-in" data-fragment-index="4" -->
 
 _"Data resulting from publicly funded research should be made publicly available... unless there are specific reasons (e.g. legislation, ethical, privacy and security) why this should not happen"_ &mdash;[STFC Scientific Data Policy](https://www.dcc.ac.uk/guidance/policy/funders-data-policies/stfc)
-<!-- .element: class="fragment fade-in" data-fragment-index="3" -->
-
--
-
-## Open science accelerates progress
-
-[The war over supercooled water (DOI:10.1063/PT.6.1.20180822a)](https://physicstoday.scitation.org/do/10.1063/pt.6.1.20180822a/full/)
-
-* Discrepancy discovered in 2011
-* Student hired to revisit computations in 2012
-* Code requested in 2013
-* Code promised "available on request" in 2016
-* Code eventually provided after involvement of Nature editors
-* Discrepancy caused by a poor choice of initialisation function
-* Findings published in 2017
-
-Was that the best use of 6 years of arguments?
+<!-- .element: class="fragment fade-in" data-fragment-index="4" -->
 
 -
 

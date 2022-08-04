@@ -52,25 +52,13 @@ Citing software:
 
 ## Setting the scene: Acknowledging HPC
 
-![Bar chart breaking down arXiv submissions by whether they acknowledge HPC resources. The majority of hep-lat submissions worldwide and the vast majority in the UK do. Most crosslists do not.](plots/acknowledges_compute_resources.svg)
+![Bar chart breaking down arXiv submissions by whether they acknowledge HPC resources. The majority of hep-lat submissions do; most crosslists do not.](plots/acknowledges_compute_resources.svg)
 
 -
 
 ## How many submissions specify _any_ software?
 
-![Bar chart breaking down arXiv submissions by whether they acknowledge software. The majortity do not. A slight majority in the UK do.](plots/specifies_any_software.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1300px" -->
-
--
-
-## How is software acknowledged?
-
-![Bar chart breaking down submissions specifying software by the method of psecification. Citation to a paper is most common.](plots/how_specifies_any_software.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1400px" -->
-
--
-
-## Where does software live?
-
-![Bar chart breaking down the locations used for software in use. GitHub is the most popular, followed by Zenodo.](plots/all_software_locations.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1000px" -->
+![Bar chart breaking down arXiv submissions by whether they acknowledge software. The majortity do not.](plots/specifies_any_software.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1000px" -->
 
 ---
 
@@ -91,9 +79,7 @@ Citing software:
 
 ## Do authors specify how configurations are generated?
 
-![Bar chart breaking down whether publications specify what software was used for generating configurations. Internationally the majority do not; in the UK a slight majority do.](plots/specifies_configuration_generation_software.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
-
-The UK is significantly better than average here. <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
+![Bar chart breaking down whether publications specify what software was used for generating configurations; the majority do not.](plots/specifies_configuration_generation_software.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
 
 -
 
@@ -106,37 +92,25 @@ The UK is significantly better than average here. <!-- .element: class="fragment
 
 ---
 
-## What about work that doesn't generate configurations?
-
-![Bar chart breaking down whether publications use existing field configurations; around 39% do. The majority of worldwide papers don't, but a slight majority of UK papers do.](plots/uses_existing_configurations.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1200px" -->
-
--
-
-## How are existing configurations acknowledged?
-
-![Bar chart breaking down how existing ensembles are acknowledged or cited. The overwhelming majority are citations to papers.](plots/how_specify_ensembles.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1200px"""-->
-
--
-
-## Lattice Data Grids
+## Sharing configurations
 
 * International Lattice Data Grid
   * Defines protocols and standards
-  * Local deployments in US, UK, Europe, Japan, Australia
+  * Local deployments (Regional Grids) in US, UK, Europe, Japan, Australia
 * FAIR before FAIR
 * Early-ish example of open science
 
 -
 
-## How many papers acknowledge an LDG?
+## How many papers acknowledge ILDG/an RG?
 
-![Bar chart breaking down whether papers acknowledge a lattice data grid. Less than 5% do; 0% within the UK.](plots/acknowledges_data_grid.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1200px" -->
+![Bar chart breaking down whether papers acknowledge ILDG or a regional grid. Less than 5% do.](plots/acknowledges_data_grid.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="800px" -->
 
 -
 
-## Which LDGs are acknowledged?
+## Which services are acknowledged?
 
-![Bar chart showing which lattice data grids are acknowledged. 14 of 14 use the JLDG; 10 also acknowledge ILDG.](plots/which_data_grids.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="700px"-->
+![Bar chart showing which lattice data sharing services are acknowledged. 14 of 14 use the JLDG; 10 also acknowledge ILDG.](plots/which_data_grids.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="700px"-->
 
 * Japan has the most active(ly cited) LDG <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
 * Either the others aren't used, or aren't cited <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
@@ -152,32 +126,14 @@ The UK is significantly better than average here. <!-- .element: class="fragment
 * ILDG committees recently resumed activity
   * Significant German government funding
   * Dedicated staff to address these problems
+* Plenary update and lattice data lunch yesterday
+
 
 -
 
 ## Performing measurements
 
-![Bar chart breaking down whether publications specify what software was used for measurement. A significant majority internationally and a small majority in the UK do not](plots/specifies_measurement_software.svg) <!-- .element width="1200px" -->
-
--
-
-## What measurement codes are in use?
-
-![Bar chart showing the top ten measurement codes. Chroma has 45 uses, QUDA 22, MILC and Grid 16.](plots/measurement_software.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
-
-* 27 indicate unreleased modifications <!-- .element: class="fragment fade-in" data-fragment-index="2" width="700px" -->
-* More only name toolkits (e.g. Grid, Chroma) <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
-
----
-
-## Use of open data
-
-(Excluding field configurations)
-
-![Bar chart breaking down how publications acknowledge data they have used; the overwhelming majority are citations to papers](plots/how_acknowledges_other_data.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
-
-* Acknowledgements to individuals <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
-* Not FAIR <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
+![Bar chart breaking down whether publications specify what software was used for measurement. A significant majority internationally do not](plots/specifies_measurement_software.svg) <!-- .element width="700px" -->
 
 -
 
@@ -191,6 +147,12 @@ The UK is significantly better than average here. <!-- .element: class="fragment
 
 ![Bar chart showing where data are published. Out of 38 submissions, 12 publish data directly on the arXiv, 5 on GitLab, 3 each on Unibi and Zenodo.](plots/used_data_repositories.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="800px" -->
 
+-
+
+## Code development hosting services are fragile!
+
+[![Screen shot of The Register article "GitLab plans to delete dormant projects in free accounts"](images/el-reg.png)](https://www.theregister.com/2022/08/04/gitlab_data_retention_policy/)
+
 ---
 
 ## Data analysis
@@ -203,9 +165,9 @@ The UK is significantly better than average here. <!-- .element: class="fragment
 
 -
 
-## Do authors specify _any_ software is used for analysis?
+## Do authors specify _any_ software used for analysis?
 
-![Bar graph breaking down whether software used for data analysis is specified. The vast majority of publications do not specify any software.](plots/specifies_analysis_software.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1300px" -->
+![Bar graph breaking down whether software used for data analysis is specified. The vast majority of publications do not specify any software.](plots/specifies_analysis_software.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1100px" -->
 
 -
 
@@ -217,4 +179,4 @@ The UK is significantly better than average here. <!-- .element: class="fragment
 
 ## Do authors publish a full analysis workflow?
 
-![Bar graph breaking down whether authors publish a full or partial analysis workflow. The overwhelming majority do not; only single digit numbers out of a thousand publish in full.](plots/publish_analysis_workflow.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1300px" -->
+![Bar graph breaking down whether authors publish a full or partial analysis workflow. The overwhelming majority do not; only single digit numbers out of a thousand publish in full.](plots/publish_analysis_workflow.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="900px" -->
