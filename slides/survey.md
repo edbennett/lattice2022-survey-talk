@@ -9,7 +9,7 @@
   * Skim-read plus keyword searches
 * Series of questions: yes/no, categorisation, and free text
   * Answers based solely on text of paper
-* Data and analysis code are available on [Zenodo](https://doi.org/10.5281/zenodo.6584001)
+* Data and analysis code are available on [Zenodo](https://doi.org/10.5281/zenodo.6976215)
 
 -
 
