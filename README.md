@@ -1,8 +1,6 @@
 # Status of reproducibility and open science in _hep-lat_
 
-[![DOI](https://zenodo.org/badge/493622019.svg)](https://zenodo.org/badge/latestdoi/493622019)
-
-Talk given at the UKLFT Annual Meeting, Liverpool, 2022-05-27.
+Talk given at the LATTICE 2022, Bonn, 2022-08-11.
 
 * [Data at Zenodo][zenodo]
 * [Slides on GitHub Pages][rendered]
