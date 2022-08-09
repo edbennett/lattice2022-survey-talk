@@ -104,13 +104,13 @@ Citing software:
 
 ## How many papers acknowledge ILDG/an RG?
 
-![Bar chart breaking down whether papers acknowledge ILDG or a regional grid. Less than 5% do.](plots/acknowledges_data_grid.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="800px" -->
+![Bar chart breaking down whether papers acknowledge ILDG or a regional grid. Less than 5% do.](plots/acknowledges_cfg_hosting_infrastructure.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="600px" -->
 
 -
 
 ## Which services are acknowledged?
 
-![Bar chart showing which lattice data sharing services are acknowledged. 14 of 14 use the JLDG; 10 also acknowledge ILDG.](plots/which_data_grids.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="700px"-->
+![Bar chart showing which lattice data sharing services are acknowledged. 14 of 14 use the JLDG; 10 also acknowledge ILDG.](plots/which_cfg_hosting_infrastructure.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="650px"-->
 
 * Japan has the most active(ly cited) LDG <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
 * Either the others aren't used, or aren't cited <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
@@ -133,13 +133,13 @@ Citing software:
 
 ## Performing measurements
 
-![Bar chart breaking down whether publications specify what software was used for measurement. A significant majority internationally do not](plots/specifies_measurement_software.svg) <!-- .element width="700px" -->
+![Bar chart breaking down whether publications specify what software was used for measurement. A significant majority internationally do not](plots/specifies_measurement_software.svg) <!-- .element width="650px" -->
 
 -
 
 ## Do authors publish data?
 
-![Bar chart breaking down how whether publications publish data. The overwhelming majority do not.](plots/publish_any_data.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1300px" -->
+![Bar chart breaking down how whether publications publish data. The overwhelming majority do not.](plots/publish_any_data.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1100px" -->
 
 -
 
@@ -167,7 +167,7 @@ Citing software:
 
 ## Do authors specify _any_ software used for analysis?
 
-![Bar graph breaking down whether software used for data analysis is specified. The vast majority of publications do not specify any software.](plots/specifies_analysis_software.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1100px" -->
+![Bar graph breaking down whether software used for data analysis is specified. The vast majority of publications do not specify any software.](plots/specifies_analysis_software.svg) <!-- .element: class="fragment fade-in" data-fragment-index="2" width="1000px" -->
 
 -
 
